@@ -25,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smtzengin&show_icons=true&locale=en&layout=compact" alt="smtzengin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smtzengin&show_icons=true&locale=en" alt="smtzengin" /></p>
+
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=85pwaumysr6d79g5w9n9chtok&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
