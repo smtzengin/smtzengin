@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="left">A passionate game developer from Turkey</h3>
 
-- 🔭 I’m currently working on **my solo project**
+- 🔭 I’m currently working on **card game project**
 
-- 🌱 I’m currently learning **casual game design and mechanics**
+- 🌱 I’m currently learning **AI system**
 
 - 📫 How to reach me **smt.zngn02@gmail.com**
 
