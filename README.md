@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://media.tenor.com/NBwG4x9IlLAAAAAM/killua-killua-tag.gif" align="center" height="400" width="400" />
-</div>  
+
 
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="left">A passionate game developer from Turkey</h3>
