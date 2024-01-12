@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smtzengin&label=Profile%20views&color=0e75b6&style=flat" alt="smtzengin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smtzengin" alt="smtzengin" /></a> </p>
 
 - 🔭 I’m currently working on **boxing game**
 
@@ -31,3 +30,5 @@
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=85pwaumysr6d79g5w9n9chtok&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smtzengin" alt="smtzengin" /></a> </p>
