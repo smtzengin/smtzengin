@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **boxing game**
 
-- 🌱 I’m currently learning **Firebase, Photon Fusion 2**
+- 🌱 I’m currently learning **Firebase, Photon Fusion**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1X3ecwsKSSjPaYUuI9RlOgqA9dR7HIsmT/view?usp=sharing](https://drive.google.com/file/d/1X3ecwsKSSjPaYUuI9RlOgqA9dR7HIsmT/view?usp=sharing)
 
