@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Firebase, Photon Fusion**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1X3ecwsKSSjPaYUuI9RlOgqA9dR7HIsmT/view?usp=sharing](https://drive.google.com/file/d/1X3ecwsKSSjPaYUuI9RlOgqA9dR7HIsmT/view?usp=sharing)
-
 - 📫 How to reach me **smt.zngn02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
