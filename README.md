@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Firebase, Photon Fusion**
 
-- 👨‍💻 All of my projects are available at <a href = "smtzengin.github.io"> Link </a>
+- 👨‍💻 All of my projects are available at <a href = "https://smtzengin.github.io"> Link </a>
 
 - 📫 How to reach me **smt.zngn02@gmail.com**
 
