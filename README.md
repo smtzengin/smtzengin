@@ -8,10 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smtzengin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-- 🔭 I’m currently working on **Real Estate Web Project**
-
-- 🌱 I’m currently learning **.NET Core, Microservices**
-
 - 👨‍💻 All of my projects are available at <a href = "https://smtzengin.github.io"> Link </a>
 
 - 📫 How to reach me **smt.zngn02@gmail.com**
